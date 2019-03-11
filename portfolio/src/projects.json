@@ -1,0 +1,25 @@
+[
+    {
+        "id": 1,
+        "name": "Racer",
+        "image": "./assets/evo10background.png",
+        "description": "A Thrilling racing Game built with Phaser 3"
+       
+      },
+      {
+        "id": 1,
+        "name": "The King's Arcade",
+        "link":"",
+        "image": "./assets/arcade84.jpg",
+        "description": "A Thrilling racing Game built with Phaser 3"
+       
+      },
+      {
+        "id": 1,
+        "name": "RAFT",
+        "link": "",
+        "image": "./assets/madagascar.jpg",
+        "description": "A Thrilling racing Game built with Phaser 3"
+       
+      }
+]

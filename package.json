@@ -1,0 +1,23 @@
+{
+  "name": "react-portfolio",
+  "version": "1.0.0",
+  "description": "portfolio page using react",
+  "main": "index.js",
+  "dependencies": {
+    "init": "^0.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/revanite07/Portfolio.git"
+  },
+  "author": "Kelan Moffatt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/revanite07/Portfolio/issues"
+  },
+  "homepage": "https://github.com/revanite07/Portfolio#readme"
+}
